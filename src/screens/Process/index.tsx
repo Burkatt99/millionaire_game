@@ -6,8 +6,8 @@ import { CloseIcon } from "@/icons/close";
 import { MenuIcon } from "@/icons/menu";
 import { useGame } from "@/providers/GameContext";
 
-import Question from "./components/Question";
-import RewardList from "./components/RewardList";
+import Question from "./_components/Question";
+import RewardList from "./_components/RewardList";
 import { MobileButton, ProcessPage } from "./styled";
 
 const Process = () => {
