@@ -1,0 +1,21 @@
+type Answer {
+  id: String!
+  text: String!
+  isCorrect: Boolean!
+}
+
+type Question {
+  id: Int!
+  reward: Int!
+  text: String!
+  minCorrectToPass: Int!
+  answers: [Answer!]!
+}
+
+type GameData {
+  questions: [Question!]!
+}
+
+type Query {
+  getGameData: GameData!
+}

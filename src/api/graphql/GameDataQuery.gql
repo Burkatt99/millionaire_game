@@ -1,0 +1,15 @@
+query GetGameData {
+  getGameData {
+    questions {
+      id
+      reward
+      text
+      minCorrectToPass
+      answers {
+        id
+        text
+        isCorrect
+      }
+    }
+  }
+}

@@ -17,7 +17,6 @@ export default defineConfig([
       "simple-import-sort": simpleImportSort,
       "prettier": prettierPlugin,
       "unused-imports": unusedImports,
-      "@next/next": nextPlugin,
     },
     languageOptions: {
       parser: tsParser,
