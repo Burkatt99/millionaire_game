@@ -10,7 +10,6 @@ import unusedImports from "eslint-plugin-unused-imports";
 export default defineConfig([
   ...nextVitals,
   ...nextTs,
-
   {
     files: ["**/*.{ts,js,tsx,jsx}"],
     plugins: {
@@ -18,6 +17,7 @@ export default defineConfig([
       "simple-import-sort": simpleImportSort,
       "prettier": prettierPlugin,
       "unused-imports": unusedImports,
+      "@next/next": nextPlugin,
     },
     languageOptions: {
       parser: tsParser,

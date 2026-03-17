@@ -9,9 +9,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "test": "jest",
-    "test:watch": "jest --watch",
     "format": "prettier --write \"src/**/*.{ts,tsx,json,css,md}\"",
-    "format:check": "prettier --check \"src/**/*.{ts,tsx,json,css,md}\"",
     "prepare": "husky"
   },
   "dependencies": {
