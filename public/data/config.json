@@ -1,0 +1,153 @@
+{
+  "questions": [
+  {
+    "id": 1,
+    "reward": 500,
+    "text": "What is the smallest bone in the human body?",
+    "minCorrectToPass": 1,
+    "answers": [
+      { "id": "A", "text": "Femur",  "isCorrect": false },
+      { "id": "B", "text": "Stapes", "isCorrect": true  },
+      { "id": "C", "text": "Fibula", "isCorrect": false },
+      { "id": "D", "text": "Radius", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "reward": 1000,
+    "text": "Which country has the most natural lakes in the world?",
+    "minCorrectToPass": 1,
+    "answers": [
+      { "id": "A", "text": "Russia",  "isCorrect": false },
+      { "id": "B", "text": "Brazil",  "isCorrect": false },
+      { "id": "C", "text": "Canada",  "isCorrect": true  },
+      { "id": "D", "text": "Finland", "isCorrect": false }
+    ]
+  },
+    {
+      "id": 3,
+      "reward": 2000,
+      "text": "What is the capital of France?",
+      "minCorrectToPass": 1,
+      "answers": [
+        { "id": "A", "text": "Rome",      "isCorrect": false },
+        { "id": "B", "text": "Madrid",    "isCorrect": false },
+        { "id": "C", "text": "Paris",     "isCorrect": true  },
+        { "id": "D", "text": "Amsterdam", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "reward": 4000,
+      "text": "Which animal is known as the king of the jungle?",
+      "minCorrectToPass": 1,
+      "answers": [
+        { "id": "A", "text": "Tiger",    "isCorrect": false },
+        { "id": "B", "text": "Elephant", "isCorrect": false },
+        { "id": "C", "text": "Lion",     "isCorrect": true  },
+        { "id": "D", "text": "Cheetah",  "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "reward": 8000,
+      "text": "How many continents are there on Earth?",
+      "minCorrectToPass": 1,
+      "answers": [
+        { "id": "A", "text": "5", "isCorrect": false },
+        { "id": "B", "text": "6", "isCorrect": false },
+        { "id": "C", "text": "7", "isCorrect": true  },
+        { "id": "D", "text": "8", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "reward": 16000,
+      "text": "Which of these are planets in our solar system? (choose 2)",
+      "minCorrectToPass": 2,
+      "answers": [
+        { "id": "A", "text": "Mars",   "isCorrect": true  },
+        { "id": "B", "text": "Pluto",  "isCorrect": false },
+        { "id": "C", "text": "Saturn", "isCorrect": true  },
+        { "id": "D", "text": "Sirius", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "reward": 32000,
+      "text": "Which of these elements are noble gases? (choose 2)",
+      "minCorrectToPass": 2,
+      "answers": [
+        { "id": "A", "text": "Oxygen",  "isCorrect": false },
+        { "id": "B", "text": "Neon",    "isCorrect": true  },
+        { "id": "C", "text": "Helium",  "isCorrect": true  },
+        { "id": "D", "text": "Sodium",  "isCorrect": false },
+        { "id": "E", "text": "Calcium", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "reward": 64000,
+      "text": "Which of these countries are in Scandinavia? (choose 3)",
+      "minCorrectToPass": 3,
+      "answers": [
+        { "id": "A", "text": "Norway",      "isCorrect": true  },
+        { "id": "B", "text": "Finland",     "isCorrect": false },
+        { "id": "C", "text": "Sweden",      "isCorrect": true  },
+        { "id": "D", "text": "Denmark",     "isCorrect": true  },
+        { "id": "E", "text": "Netherlands", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "reward": 125000,
+      "text": "Which of these are Shakespeare plays? (choose 3)",
+      "minCorrectToPass": 3,
+      "answers": [
+        { "id": "A", "text": "Hamlet",        "isCorrect": true  },
+        { "id": "B", "text": "Don Quixote",   "isCorrect": false },
+        { "id": "C", "text": "Othello",       "isCorrect": true  },
+        { "id": "D", "text": "Macbeth",       "isCorrect": true  },
+        { "id": "E", "text": "The Alchemist", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "reward": 250000,
+      "text": "Which of these programming languages are statically typed? (choose 2)",
+      "minCorrectToPass": 2,
+      "answers": [
+        { "id": "A", "text": "Python",     "isCorrect": false },
+        { "id": "B", "text": "TypeScript", "isCorrect": true  },
+        { "id": "C", "text": "Ruby",       "isCorrect": false },
+        { "id": "D", "text": "Java",       "isCorrect": true  },
+        { "id": "E", "text": "JavaScript", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "reward": 500000,
+      "text": "Which of these events happened in the 20th century? (choose 3)",
+      "minCorrectToPass": 3,
+      "answers": [
+        { "id": "A", "text": "Moon landing",          "isCorrect": true  },
+        { "id": "B", "text": "French Revolution",     "isCorrect": false },
+        { "id": "C", "text": "World War II",          "isCorrect": true  },
+        { "id": "D", "text": "Fall of Berlin Wall",   "isCorrect": true  },
+        { "id": "E", "text": "American Civil War",    "isCorrect": false }
+      ]
+    },
+    {
+      "id": 12,
+      "reward": 1000000,
+      "text": "In what year did the Byzantine Empire fall?",
+      "minCorrectToPass": 1,
+      "answers": [
+        { "id": "A", "text": "1389", "isCorrect": false },
+        { "id": "B", "text": "1453", "isCorrect": true  },
+        { "id": "C", "text": "1492", "isCorrect": false },
+        { "id": "D", "text": "1517", "isCorrect": false }
+      ]
+    }
+  ]
+}
