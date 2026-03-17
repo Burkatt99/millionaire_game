@@ -2,7 +2,7 @@
 
 A web-based implementation of the classic "Who Wants to Be a Millionaire" game, built with [Next.js](https://nextjs.org) and [TypeScript](https://www.typescriptlang.org).
 
-🚀 **Live Demo:** [your-vercel-link-here]
+🚀 **Live Demo:** [my-vercel-link-here](https://millionaire-game-rb4g2tw99-burkatt99s-projects.vercel.app/)
 
 ## About the Game
 
@@ -12,7 +12,7 @@ The game features 12 questions of increasing difficulty. Each question may have 
 - 12 questions with increasing rewards up to $1,000,000
 - Support for multiple correct answers per question
 - Dynamic game configuration via JSON
-- Fully responsive design (iPhone 8 to 4K displays)
+- Fully responsive design
 - Reward ladder with current, won, and default states
 
 ## Getting Started

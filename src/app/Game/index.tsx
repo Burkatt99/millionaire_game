@@ -1,9 +1,9 @@
 "use client";
 
-import Process from "@/pages/Process";
-import Result from "@/pages/Result";
-import Start from "@/pages/Start";
 import { useGame } from "@/providers/GameContext";
+import Process from "@/screens/Process";
+import Result from "@/screens/Result";
+import Start from "@/screens/Start";
 
 const SCREENS = {
   loading: Start,
