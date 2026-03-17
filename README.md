@@ -2,7 +2,7 @@
 
 A web-based implementation of the classic "Who Wants to Be a Millionaire" game, built with [Next.js](https://nextjs.org) and [TypeScript](https://www.typescriptlang.org).
 
-🚀 **Live Demo:** [my-vercel-link-here](https://millionaire-game-rb4g2tw99-burkatt99s-projects.vercel.app/)
+🚀 **Live Demo:** [my-vercel-link-here](https://millionaire-game-neon-alpha.vercel.app/)
 
 ## About the Game
 
